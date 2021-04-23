@@ -1,3 +1,4 @@
 # Sub-Alloc
 The process of Substitution Allocation is perhaps the most underrated piece of exertion that teachers have to bear with. This seemingly simple task has to be carried out every morning and it involves a teacher with a task of applying substitutions, tallying out the teachers present and absent from the list of huge lists of teachers’ timetables and then allocating substitutions.
 With the help of the basic fundamentals of C++ and an aim of making a task now arduous for teachers something that could be finished in seconds, the application for ‘Substitutions Allocation’ was created. Its user-friendly nature assures that not necessarily only a teacher thorough with programming is required, once the details of all the teachers are fed into the database (one-time task) then anyone can use the application for applying substitutions.
+File modified to be opened with Dev c++ IDE
